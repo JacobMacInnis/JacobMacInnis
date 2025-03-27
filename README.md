@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Jacob 👋
 
+Typescript JavaScript Python Node.js React AWS Azure CircleCI Sass Redux Angular JavaScript HTML Css Express MongoDB PostgreSQL GraphQl Git Jest
 <!--
 **JacobMacInnis/JacobMacInnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
