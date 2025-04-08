@@ -50,6 +50,10 @@
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge)
 ![Enzyme](https://img.shields.io/badge/Enzyme-00ADD8?style=for-the-badge)
 
+
+<h4 align="center">
+  <a href="https://github.com/JacobMacInnis?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 <!--
 **JacobMacInnis/JacobMacInnis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
