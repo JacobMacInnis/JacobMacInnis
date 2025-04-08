@@ -1,5 +1,5 @@
 ## Hi there, I'm Jacob 👋
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacobMacInnis.JacobMacInnis" />
 
 ##### 🧠 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
