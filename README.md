@@ -22,11 +22,20 @@
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-##### 📊 Data Science and Machine Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+##### 🧠 Machine Learning and Data Manipulation
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-009688?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-212121?style=for-the-badge)
+##### 📊 Data Visualizations
 ![Seaborn](https://img.shields.io/badge/Seaborn-9AABDD?style=for-the-badge)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ##### 🗄️ Databases
