@@ -1,5 +1,4 @@
 ## Hi there, I'm Jacob 👋
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacobMacInnis.JacobMacInnis" />
 
 ##### 🧠 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -104,3 +103,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=JacobMacInnis.JacobMacInnis" />
